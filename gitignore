@@ -1,0 +1,10 @@
+# Arquivos e diretórios específicos do Django
+*.log
+*.pot
+__pycache__/
+local_settings.py
+db.sqlite3
+media/
+
+# Ambiente virtual
+venvcloiuw/
